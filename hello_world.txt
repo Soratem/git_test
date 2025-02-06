@@ -1,1 +1,2 @@
 I will get good at this.
+Testing a commit with a different commit message setting.
