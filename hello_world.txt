@@ -1,2 +1,9 @@
 I will get good at this.
 Testing a commit with a different commit message setting.
+Quick ideas for learning projects:
+A website that allows you to input a workout program, and shows you what is being trained too much
+or not enough.
+
+Crypto front page news website of important changes. Pull info from places and display
+them all in one useful place 
+
